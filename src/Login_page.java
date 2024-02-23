@@ -10,9 +10,8 @@ public class Login_page {
 		driver.manage().window().maximize();
 		driver.get("https://practicetestautomation.com/practice-test-login/");
           
-		
         driver.manage().window().maximize();//to maximize screen
-        
+        //wait
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		//username
 		driver.findElement(By.xpath("//input[@id=\"username\"]")).sendKeys("student");
