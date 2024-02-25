@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class flipcart {
+public class A_flipcart {
 
 	public static void main(String[] args) {
 		 //to call webdriver 

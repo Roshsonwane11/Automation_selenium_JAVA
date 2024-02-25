@@ -1,6 +1,6 @@
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
-public class basic8 {
+public class A_basic {
 
 	public static void main(String[] args) {
 		 // Setting Chrome Driver Path

@@ -3,7 +3,7 @@ import java.time.Duration;
 import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
 //Locator Find by XPath
-public class Locactor_XPath {
+public class A_Locactor_XPath {
 
 	public static void main(String[] args) {
 		

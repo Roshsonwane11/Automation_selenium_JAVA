@@ -3,7 +3,7 @@ import java.time.Duration;
 import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;
 //loactor find by ID
-public class locactor_ID {
+public class A_locactor_ID {
 
 	public static void main(String[] args) {
 		
